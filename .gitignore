@@ -1,0 +1,12 @@
+debug
+release
+.qmake.stash
+*.txt
+*.dll
+*.aps
+*.rc
+*.pro.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vs
